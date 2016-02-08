@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PingPongTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-02-08T17:45:16" hostname="epicodus-55.local" time="0.001">
+<testsuite name="PingPongTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-02-08T18:30:36" hostname="epicodus-55.local" time="0.001">
   <properties/>
-  <testcase name="countPingPong_countUpToNumber" classname="PingPongTest" time="0.001"/>
+  <testcase name="countPingPong_replaceThreesWithPing" classname="PingPongTest" time="0.001"/>
+  <testcase name="countPingPong_countUpToNumberFromUser" classname="PingPongTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
